@@ -8,8 +8,7 @@ Instead of only completing courses, I focus on understanding concepts deeply, im
 
 ## 📚 Topics Covered
 
-- AI Fundamentals
-- Mathematics for AI
+
 - Machine Learning
 - Deep Learning
 - Natural Language Processing (NLP)
@@ -26,6 +25,6 @@ Instead of only completing courses, I focus on understanding concepts deeply, im
 - Fine-Tuning
 - Model Deployment
 - MLOps Basics
-- End-to-End Generative AI Projects
+- End-to-End  AI Projects
 
 ---
