@@ -1,2 +1,2 @@
-# ai-learning-journey
- AI Learning Journey  This repository documents my journey from AI/ML fundamentals to production-ready
+# Ai-learning-journey
+AI Learning Journey  This repository documents my journey from AI/ML fundamentals to production-ready Generative AI applications.  Instead of only completing courses, I focus on understanding concepts deeply, implementing them in Python, building projects, and documenting everything in my own words.  ## What you'll find  - AI & ML Fundamentals - Deep Learning - NLP - Transformers - Large Language Models (LLMs) - Prompt Engineering - Embeddings - Vector Databases - Retrieval-Augmented Generation (RAG) - LangChain - AI Agents - Model Evaluation - Fine-tuning - Deployment - End-to-End Projects 
